@@ -22,8 +22,8 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.
   - `TimingFramework-0.55.jar` → Library untuk animasi berbasis waktu di Java Swing, berguna untuk membuat transisi, efek fade, dan pergerakan elemen UI.  
 
 - **Chart**
-   - `jcommon-1.0.23.jar` → Library pendukung JFreeChart yang menyediakan utilitas umum untuk pengolahan data, formatting, dan struktur pendukung grafik.  
-   - `jfreechart-1.0.19.jar` → Library untuk membuat berbagai jenis grafik (bar, line, pie, area, dll) di Java Swing atau aplikasi desktop lainnya.  
+    - `jcommon-1.0.23.jar` → Library pendukung JFreeChart yang menyediakan utilitas umum untuk pengolahan data, formatting, dan struktur pendukung grafik.
+    - `jfreechart-1.0.19.jar` → Library untuk membuat berbagai jenis grafik (bar, line, pie, area, dll) di Java Swing atau aplikasi desktop lainnya.  
 
 - **DatePicker**
   - `miglayout-core.jar` → Versi inti MigLayout yang digunakan oleh DatePicker untuk penataan layout.  
