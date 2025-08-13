@@ -104,18 +104,18 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.
 
 **1. Clone Repository**
 ```sh
-git clone https://github.com/kidoucode/apps-spk-pemilihan-handphone-metode-saw-desktop.git
+git clone https://github.com/kidoucode/apps-absensi-qrcode-via-webcam-desktop.git
 ```
 
 **2. Masuk ke Direktori Proyek** :
 
 ```sh
-cd apps-spk-pemilihan-handphone-metode-saw-desktop
+cd apps-absensi-qrcode-via-webcam-desktop
 ```
 
 **3. Jalankan Aplikasi** :
 ```sh
-java -jar AppsSPKSAWHandphone.jar
+java -jar AppsAbsensi_QRCode.jar
 ```
 Atau Anda bisa langsung mengklik file JAR untuk menjalankan demo aplikasi ini.
 
