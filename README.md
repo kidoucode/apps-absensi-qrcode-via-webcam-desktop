@@ -30,7 +30,7 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.
   - `miglayout-swing.jar` → Implementasi MigLayout untuk komponen Swing, mempermudah pengaturan tata letak DatePicker.  
   - `swing-datetime-picker-1.2.3.jar` → Komponen Swing untuk memilih tanggal dan waktu (date & time picker).  
 
--**FlatLaf (Java Look and Feel)**
+- **FlatLaf (Java Look and Feel)**
   - `flatlaf-3.5.2-sources.jar` → Source code untuk FlatLaf (Look and Feel modern di Java).  
   - `flatlaf-3.5.2.jar` → FlatLaf core, library Look and Feel modern dan minimalis untuk aplikasi Java Swing.  
   - `flatlaf-extras-3.5.2.jar` → Add-on untuk FlatLaf seperti font customization, color palette, dan icon set tambahan.  
