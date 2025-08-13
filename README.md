@@ -19,7 +19,7 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.
 #### **Library / Dependensi**
 
 - **Timing Framework**
- - `TimingFramework-0.55.jar` → Library untuk animasi berbasis waktu di Java Swing, berguna untuk membuat transisi, efek fade, dan pergerakan elemen UI.  
+  - `TimingFramework-0.55.jar` → Library untuk animasi berbasis waktu di Java Swing, berguna untuk membuat transisi, efek fade, dan pergerakan elemen UI.  
 
 - **Chart**
  - `jcommon-1.0.23.jar` → Library pendukung JFreeChart yang menyediakan utilitas umum untuk pengolahan data, formatting, dan struktur pendukung grafik.  
