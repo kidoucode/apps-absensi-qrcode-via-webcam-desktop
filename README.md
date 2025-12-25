@@ -7,6 +7,49 @@ Cocok digunakan untuk tugas akhir/skripsi, proyek sistem informasi, maupun imple
 
 ---
 
+#### 📸 Preview Aplikasi
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-absensi-qrcode-via-webcam/Screenshot%20Form%20Login.png"
+    width="600"
+    alt="Form Login"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-absensi-qrcode-via-webcam/Screenshot%20Menu%20Utama.png"
+    width="600"
+    alt="Menu Utama"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-absensi-qrcode-via-webcam/Screenshot%20Cetak%20QR%20Code%20Siswa.png"
+    width="600"
+    alt="Cetak QR Code Siswa"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-absensi-qrcode-via-webcam/Screenshot%20Melakukan%20Absensi%20dengan%20QR%20Code.png"
+    width="600"
+    alt="Melakukan Absensi dengan QR Code"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-absensi-qrcode-via-webcam/Screenshot%20Cetak%20Laporan%20Periode.png"
+    width="600"
+    alt="Cetak Laporan Periode"
+  />
+</p>
+
+
 #### **Teknologi**
 - [MySQL 8.0.40](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-8.0.40.0.msi)  
 - [JDK 11](https://www.oracle.com/id/java/technologies/javase/jdk11-archive-downloads.html)  
